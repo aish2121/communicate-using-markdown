@@ -1,5 +1,6 @@
-<header>
-
+# Welcome! 
+# this is my new repositary.  
+### along with headers  ###
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -66,6 +67,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 <footer>
+Link to add the headers
 
 <!--
   <<< Author notes: Footer >>>
